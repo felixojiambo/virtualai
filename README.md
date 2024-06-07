@@ -110,7 +110,7 @@ Welcome to the AI Sales Rep Solution! This comprehensive tool is designed to enh
 
 ## Support
 
-For any questions or support, please contact our support team at support@example.com.
+For any questions or support, please contact our support team at felixojiamboe@gmail.com.
 
 ## License
 
