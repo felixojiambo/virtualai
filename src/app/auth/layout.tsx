@@ -33,9 +33,9 @@ const Layout = async ({ children }: Props) => {
           Hi, I’m your AI powered sales assistant, Greydesk!
         </h2>
         <p className="text-iridium md:text-sm mb-10">
-          Virtual is capable of capturing lead information without a form...{' '}
+          Greydesk is capable of capturing information without a form...{' '}
           <br />
-          something never done before 
+          Daring to go beyond,Greydesk was built to revolutionize your business
         </p>
         <Image
           src="/images/app-ui.png"
