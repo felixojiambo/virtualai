@@ -1,11 +1,12 @@
 'use server'
 
 import { client } from '@/lib/prisma'
-import { extractEmailsFromString, extractURLfromString } from '@/lib/utils'
+//import { extractEmailsFromString, extractURLfromString } from '@/lib/utils'
 import { onRealTimeChat } from '../conversation'
-import { clerkClient } from '@clerk/nextjs'
+import { clerkClient } from '@clerk/nextjs/server'
 import { onMailer } from '../mailer'
 import OpenAi from 'openai'
+import { extractEmailsFromString, extractURLfromString } from '@/lib/utils'
 
 const openai = new OpenAi({
   apiKey: process.env.OPEN_AI_KEY,
