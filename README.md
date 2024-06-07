@@ -98,6 +98,81 @@ Welcome to the AI Sales Rep Solution! This comprehensive tool is designed to enh
 5. **Dashboard and Analytics**
    - Monitor financial metrics and visitor interactions via the dashboard.
 
+## Dependencies
+
+- **@clerk/nextjs**: Authentication and user management.
+- **@hookform/error-message**: Display error messages in forms.
+- **@hookform/resolvers**: Validation resolvers for react-hook-form.
+- **@prisma/client**: Prisma ORM for database access.
+- **@radix-ui/react-accordion**: Accessible accordion component.
+- **@radix-ui/react-alert-dialog**: Accessible alert dialog component.
+- **@radix-ui/react-aspect-ratio**: Maintain aspect ratio for elements.
+- **@radix-ui/react-avatar**: Avatar component for user profile pictures.
+- **@radix-ui/react-checkbox**: Accessible checkbox component.
+- **@radix-ui/react-collapsible**: Collapsible component for expandable sections.
+- **@radix-ui/react-context-menu**: Accessible context menu component.
+- **@radix-ui/react-dialog**: Accessible dialog component.
+- **@radix-ui/react-dropdown-menu**: Accessible dropdown menu component.
+- **@radix-ui/react-hover-card**: Component for hoverable cards.
+- **@radix-ui/react-label**: Accessible label component.
+- **@radix-ui/react-menubar**: Accessible menubar component.
+- **@radix-ui/react-navigation-menu**: Accessible navigation menu component.
+- **@radix-ui/react-popover**: Accessible popover component.
+- **@radix-ui/react-progress**: Accessible progress bar component.
+- **@radix-ui/react-radio-group**: Accessible radio group component.
+- **@radix-ui/react-scroll-area**: Scroll area component.
+- **@radix-ui/react-select**: Accessible select component.
+- **@radix-ui/react-separator**: Component for separating content.
+- **@radix-ui/react-slider**: Accessible slider component.
+- **@radix-ui/react-slot**: Slot component for dynamic content.
+- **@radix-ui/react-switch**: Accessible switch component.
+- **@radix-ui/react-tabs**: Accessible tabs component.
+- **@radix-ui/react-toast**: Accessible toast notification component.
+- **@radix-ui/react-toggle**: Accessible toggle button component.
+- **@radix-ui/react-toggle-group**: Group of toggle buttons.
+- **@radix-ui/react-tooltip**: Accessible tooltip component.
+- **@stripe/react-stripe-js**: Stripe integration for React.
+- **@stripe/stripe-js**: Stripe.js library for frontend Stripe integration.
+- **@types/nodemailer**: TypeScript types for Nodemailer.
+- **@uploadcare/blocks**: Uploadcare components for file handling.
+- **axios**: Promise-based HTTP client.
+- **class-variance-authority**: Utility for managing class names in React.
+- **clsx**: Utility for constructing `className` strings.
+- **cmdk**: Command menu component for React.
+- **date-fns**: Modern JavaScript date utility library.
+- **embla-carousel-react**: Carousel component for React.
+- **html-react-parser**: Parse HTML strings into React components.
+- **input-otp**: Component for OTP input fields.
+- **lucide-react**: Icon library for React.
+- **next**: Next.js framework.
+- **next-themes**: Theme management for Next.js.
+- **nodemailer**: Module for sending emails.
+- **openai**: OpenAI API client for Node.js.
+- **pusher**: Pusher server library.
+- **pusher-js**: Pusher client library.
+- **react**: React library.
+- **react-day-picker**: Date picker component for React.
+- **react-dom**: React DOM library.
+- **react-hook-form**: Library for handling form state and validation.
+- **react-resizable-panels**: Resizable panel component for React.
+- **sonner**: Notification library for React.
+- **stripe**: Stripe API client for Node.js.
+- **tailwind-merge**: Utility for merging Tailwind CSS class names.
+- **tailwindcss-animate**: Tailwind CSS plugin for animations.
+- **vaul**: Vault component for React.
+- **zod**: TypeScript-first schema declaration and validation library.
+
+## Dev Dependencies
+
+- **typescript**: TypeScript language support.
+- **@types/node**: TypeScript types for Node.js.
+- **@types/react**: TypeScript types for React.
+- **@types/react-dom**: TypeScript types for React DOM.
+- **postcss**: Tool for transforming CSS with JavaScript.
+- **tailwindcss**: Utility-first CSS framework.
+- **eslint**: JavaScript/TypeScript linter.
+- **eslint-config-next**: ESLint configuration for Next.js.
+
 ## Customization
 
 - Access the customization options in the admin panel to adjust the interface, branding, and feature settings.
